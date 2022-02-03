@@ -1,0 +1,25 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "Lab 03 Working with MongoDB, will be used for Labs 4 and 5 too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvinPierce/lab3_restaurant_database.git"
+  },
+  "keywords": [],
+  "author": "Calvin Pierce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalvinPierce/lab3_restaurant_database/issues"
+  },
+  "homepage": "https://github.com/CalvinPierce/lab3_restaurant_database#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  }
+}
